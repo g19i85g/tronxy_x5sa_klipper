@@ -1,4 +1,4 @@
-# Tronxy X5SA-500 Pro Klipper umbau
+# Tronxy X5SA-500 Pro V9 Board Klipper umbau
 
 ## Teile Liste
 - Raspberry Pi
